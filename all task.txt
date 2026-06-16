@@ -76,7 +76,7 @@ task 3
           <p>Phone:123456789</p>
         </div>
       </div>
-      <div> class="text-center text-sm text-gray-500 mt-6">
+      <div class="text-center text-sm text-gray-500 mt-6">
       @ 2026 Clevision Technologies.
      </div>
     </div>
